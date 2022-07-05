@@ -35,7 +35,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@types/node", "npm:18.0.0"],\
             ["@types/react", "npm:18.0.14"],\
-            ["@types/react-dom", "npm:18.0.5"],\
+            ["@types/react-dom", "npm:18.0.6"],\
             ["eslint", "npm:8.18.0"],\
             ["eslint-config-next", "virtual:ddccc941eb8b35cd4b898a64351d8bba4ecc85eb47e8f1b36dce7852d6c3635665e0fc5464861f723d175edb2248ce0fa54dfefb9b5e4d2fdaef4b2353c4aa82#npm:12.1.6"],\
             ["eslint-config-prettier", "virtual:ddccc941eb8b35cd4b898a64351d8bba4ecc85eb47e8f1b36dce7852d6c3635665e0fc5464861f723d175edb2248ce0fa54dfefb9b5e4d2fdaef4b2353c4aa82#npm:8.5.0"],\
@@ -315,10 +315,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/react-dom", [\
-        ["npm:18.0.5", {\
-          "packageLocation": "./.yarn/cache/@types-react-dom-npm-18.0.5-acb34f8ae9-cd48b81950.zip/node_modules/@types/react-dom/",\
+        ["npm:18.0.6", {\
+          "packageLocation": "./.yarn/cache/@types-react-dom-npm-18.0.6-55949dcf84-db571047af.zip/node_modules/@types/react-dom/",\
           "packageDependencies": [\
-            ["@types/react-dom", "npm:18.0.5"],\
+            ["@types/react-dom", "npm:18.0.6"],\
             ["@types/react", "npm:18.0.14"]\
           ],\
           "linkType": "HARD"\
@@ -2035,7 +2035,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["my-app", "workspace:."],\
             ["@types/node", "npm:18.0.0"],\
             ["@types/react", "npm:18.0.14"],\
-            ["@types/react-dom", "npm:18.0.5"],\
+            ["@types/react-dom", "npm:18.0.6"],\
             ["eslint", "npm:8.18.0"],\
             ["eslint-config-next", "virtual:ddccc941eb8b35cd4b898a64351d8bba4ecc85eb47e8f1b36dce7852d6c3635665e0fc5464861f723d175edb2248ce0fa54dfefb9b5e4d2fdaef4b2353c4aa82#npm:12.1.6"],\
             ["eslint-config-prettier", "virtual:ddccc941eb8b35cd4b898a64351d8bba4ecc85eb47e8f1b36dce7852d6c3635665e0fc5464861f723d175edb2248ce0fa54dfefb9b5e4d2fdaef4b2353c4aa82#npm:8.5.0"],\
@@ -2094,7 +2094,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/fibers", null],\
             ["@types/node-sass", null],\
             ["@types/react", "npm:18.0.14"],\
-            ["@types/react-dom", "npm:18.0.5"],\
+            ["@types/react-dom", "npm:18.0.6"],\
             ["@types/sass", null],\
             ["caniuse-lite", "npm:1.0.30001359"],\
             ["fibers", null],\
